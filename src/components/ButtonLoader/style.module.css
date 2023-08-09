@@ -1,0 +1,9 @@
+.loader__main{
+    text-align: center;
+}
+
+
+.loader__main span{
+    top: 3px;
+    position: relative;
+}

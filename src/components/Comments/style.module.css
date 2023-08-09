@@ -1,0 +1,29 @@
+.comment {
+    padding: 15px 10px;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .author {
+    color: #c4c5c5;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .date {
+    font-size: 12px;
+    color: #eaff08;
+    font-weight: bold;
+  }
+  
+  .commentText {
+    font-size: 18px;
+    padding: 5px 0;
+    color: #62b767;
+    font-weight: 600;
+    font-style: italic;
+  }

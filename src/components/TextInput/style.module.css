@@ -1,0 +1,17 @@
+.input__boxess{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+.input__boxess input{
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    height: 45px;
+    font-size: 20px;
+    padding: 10px;
+    color: #000;
+}

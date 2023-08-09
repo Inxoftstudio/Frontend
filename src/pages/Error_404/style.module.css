@@ -1,0 +1,24 @@
+section.Error__page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    flex-direction: column;
+
+}
+
+.Error__page h1{
+    font-size: 38px;
+    color: rgb(191, 26, 26);
+}
+
+
+section.Error__page a{
+    font-size: 20px;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+
+section.Error__page a:hover{
+    color: rgb(56, 56, 203);
+}
